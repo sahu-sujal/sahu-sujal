@@ -33,21 +33,14 @@
 
 ### 💻 Tech Stack:
 #### Languages I use:
-| Java | HTML | CSS | Javascript | Typescript
+| Java | HTML | CSS | Javascript 
 |----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="CSS" alt="CSS" width="55" height="55"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="CSS" alt="CSS" width="55" height="55"/>
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="CSS" alt="CSS" width="55" height="55"/> 
 
 #### Devops Tools and Utilities I use:
 | LINUX | GIT | DOCKER | NGINX | AWS | VAGRANT |
 |----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" alt="Vagrant" width="55" height="55"/>|
-
-
-
-#### Frameworks and Libraries I Use:
-| Node JS | React JS | Express JS | Bootstrap |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node Js" alt="Node Js" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Js" alt="React Js" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express Js" alt="Express Js" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="55" height="55"/>|
 
 
 ## 📫 Get in Touch
